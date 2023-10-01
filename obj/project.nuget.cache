@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "FyqNclIKLK3kKUUSjUEWnCmzKw22K6Vxf53CT7+Aw8IPDjD+it74nRyOSt9qVCEINDClhTSbpN8/ssk5cjT70g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\akreu\\Documents\\COP5615\\HW1\\websocket\\websocket.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\akreu\\.nuget\\packages\\fsharp.core\\7.0.400\\fsharp.core.7.0.400.nupkg.sha512",
+    "C:\\Users\\akreu\\.nuget\\packages\\suave\\2.6.2\\suave.2.6.2.nupkg.sha512"
+  ],
+  "logs": []
+}
